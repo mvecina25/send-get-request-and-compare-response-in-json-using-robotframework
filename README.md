@@ -1,12 +1,9 @@
-## How To Run
-* Terminal
-    ```
-    # Install packages
-    1. `pip3 install -r requirements.txt`
+## 🛠 Installation and Setup Instructions
 
-    # How To Run
-    2. `cd ../tests`
-    3. `robot -d ../reports test_get_request.robot`
+1. `pip3 install -r requirements.txt`
+2. `cd ../tests`
+3. `robot -d ../reports test_get_request.robot`
+
 
 <img width="1795" alt="Screenshot 2023-05-28 at 1 24 51 AM" src="https://github.com/mvecina25/send-get-request-and-compare-response-in-json-using-robotframework/assets/32367570/3c1a9c2d-e660-41b6-80fc-a822b7311851">
 
