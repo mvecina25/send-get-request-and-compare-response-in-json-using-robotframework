@@ -1,0 +1,8 @@
+# MAC File Format
+.DS_Store
+
+# Reports
+log.html
+output.xml
+report.html
+*.png
